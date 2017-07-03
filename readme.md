@@ -37,7 +37,7 @@ The holidays are hard-coded as a JSON object. If you hover the mouse over a holi
 
 ### What would I do differently?
 
- * This is not an actual SharePoint web part. Though this was not explicity stated in the requirements, I assume that was the final intent. However since I knew this would primarily be implemented client-side, I started out working on this in a simple CodePen before copying the code over to Visual Studio and commiting to Git. Given the 2 hour time limit and the fact that I didn't have a SharePoint development environment already setup and ready to go, I opted to focus on the code, which were largely remain unchanged if this were to be packaged in an actual SharePoint application.
+ * This is not an actual SharePoint web part. Though this was not explicity stated in the requirements, I assume that was the final intent. However since I knew this would primarily be implemented client-side, I started out working on this in a simple CodePen before copying the code over to Visual Studio and commiting to Git. Given the 2 hour time limit and the fact that I didn't have a SharePoint development environment already setup and ready to go for personal use, I opted to focus on the code, which would largely remain unchanged if this were to be packaged in an actual SharePoint application.
  * I would probably refactor this code to make it neater and more effecient.
  * I am not a fan of using JavaScript strings to inject large amounts of HTML into the DOM. As such, I would probably use a templating framework like HandleBars, or an app framework like Knockout or Angular, but that seemed overkill for this exercize.
  * I would make a RESTful call to the SharePoint WebAPI to store the user data in a list, and to retrieve it on initial page load.
