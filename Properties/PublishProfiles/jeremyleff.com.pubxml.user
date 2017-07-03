@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAAlq7ep74rkKZYs6025CIHwAAAAACAAAAAAADZgAAwAAAABAAAABpNaOrPbhYv6+cc/AUXjUMAAAAAASAAACgAAAAEAAAAEmVu7B7wpPVeHIQgldbTYoYAAAACPXtAbTIS+baNPwvNb2f+5LoudaA1lPJFAAAALkXyTLc2TFWvE2GTa5XpBxY1ZoR</EncryptedPassword>
+    <_PublishTargetUrl>ftp://45.40.165.29/calendarwebpart</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/CalendarWebPart.dll">
+      <publishTime>07/02/2017 19:38:39</publishTime>
+    </File>
+    <File Include="Content/bootstrap-theme.css">
+      <publishTime>06/30/2017 21:47:02</publishTime>
+    </File>
+    <File Include="Content/bootstrap-theme.css.map">
+      <publishTime>06/30/2017 21:47:02</publishTime>
+    </File>
+    <File Include="Content/bootstrap-theme.min.css">
+      <publishTime>06/30/2017 21:47:02</publishTime>
+    </File>
+    <File Include="Content/bootstrap-theme.min.css.map">
+      <publishTime>06/30/2017 21:47:02</publishTime>
+    </File>
+    <File Include="Content/bootstrap.css">
+      <publishTime>06/30/2017 21:47:03</publishTime>
+    </File>
+    <File Include="Content/bootstrap.css.map">
+      <publishTime>06/30/2017 21:47:03</publishTime>
+    </File>
+    <File Include="Content/bootstrap.min.css">
+      <publishTime>06/30/2017 21:47:03</publishTime>
+    </File>
+    <File Include="Content/bootstrap.min.css.map">
+      <publishTime>06/30/2017 21:47:03</publishTime>
+    </File>
+    <File Include="Content/calendar.css">
+      <publishTime>07/01/2017 02:12:52</publishTime>
+    </File>
+    <File Include="default.aspx">
+      <publishTime>07/02/2017 19:15:58</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.eot">
+      <publishTime>06/30/2017 21:47:02</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.svg">
+      <publishTime>06/30/2017 21:47:02</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.ttf">
+      <publishTime>06/30/2017 21:47:02</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.woff">
+      <publishTime>06/30/2017 21:47:02</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.woff2">
+      <publishTime>06/30/2017 21:47:02</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>06/30/2017 21:47:03</publishTime>
+    </File>
+    <File Include="Scripts/bootstrap.js">
+      <publishTime>06/30/2017 21:47:02</publishTime>
+    </File>
+    <File Include="Scripts/bootstrap.min.js">
+      <publishTime>06/30/2017 21:47:02</publishTime>
+    </File>
+    <File Include="Scripts/calendar.js">
+      <publishTime>07/02/2017 19:24:03</publishTime>
+    </File>
+    <File Include="Scripts/jquery-3.1.1.js">
+      <publishTime>06/30/2017 21:46:24</publishTime>
+    </File>
+    <File Include="Scripts/jquery-3.1.1.min.js">
+      <publishTime>06/30/2017 21:46:24</publishTime>
+    </File>
+    <File Include="Scripts/jquery-3.1.1.min.map">
+      <publishTime>06/30/2017 21:46:23</publishTime>
+    </File>
+    <File Include="Scripts/jquery-3.1.1.slim.js">
+      <publishTime>06/30/2017 21:46:23</publishTime>
+    </File>
+    <File Include="Scripts/jquery-3.1.1.slim.min.js">
+      <publishTime>06/30/2017 21:46:23</publishTime>
+    </File>
+    <File Include="Scripts/jquery-3.1.1.slim.min.map">
+      <publishTime>06/30/2017 21:46:23</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>07/02/2017 19:38:42</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

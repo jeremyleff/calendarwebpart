@@ -1,0 +1,6 @@
+C:\Users\jml0007\Dropbox\Vancick Code Exercize\CalendarWebPart\CalendarWebPart\bin\CalendarWebPart.dll.config
+C:\Users\jml0007\Dropbox\Vancick Code Exercize\CalendarWebPart\CalendarWebPart\bin\CalendarWebPart.dll
+C:\Users\jml0007\Dropbox\Vancick Code Exercize\CalendarWebPart\CalendarWebPart\bin\CalendarWebPart.pdb
+C:\Users\jml0007\Dropbox\Vancick Code Exercize\CalendarWebPart\CalendarWebPart\obj\Release\CalendarWebPart.csprojResolveAssemblyReference.cache
+C:\Users\jml0007\Dropbox\Vancick Code Exercize\CalendarWebPart\CalendarWebPart\obj\Release\CalendarWebPart.dll
+C:\Users\jml0007\Dropbox\Vancick Code Exercize\CalendarWebPart\CalendarWebPart\obj\Release\CalendarWebPart.pdb
