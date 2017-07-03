@@ -7,7 +7,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
     <title>Calendar Web Part</title>
-    <link href="Content/bootstrap.min.css" rel="stylesheet" />
+    <link href="Content/bootstrap/bootstrap.min.css" rel="stylesheet" />
     <link href="Content/calendar.css" rel="stylesheet" />
 </head>
 <body>
@@ -47,7 +47,7 @@
             </div>
         </div>
     </div>
-    <script src="Scripts/jquery-3.1.1.min.js"></script>
+    <script src="Scripts/jquery/jquery-3.1.1.min.js"></script>
     <script src="Scripts/bootstrap.min.js"></script>
     <script src="Scripts/calendar.js"></script>
 </body>
